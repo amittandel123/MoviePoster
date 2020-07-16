@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">MoviePoster</string>
+
+    <string name="action_settings">Settings</string>
+    <string-array name="movie_titles">
+        <item>Dark Circles</item>
+        <item>Mechanic</item>
+        <item>Avatar</item>
+        <item>Dark Knight</item>
+        <item>Iron Man</item>
+        <item>ATM</item>
+        <item>Thor</item>
+        <item>Wolverine</item>
+        <item>Avengers</item>
+    </string-array>
+
+    <string-array name="movie_ratings">
+        <item>Rating : 7/10</item>
+        <item>Rating : 8/10</item>
+        <item>Rating : 8.5/10</item>
+        <item>Rating : 9/10</item>
+        <item>Rating : 7.5/10</item>
+        <item>Rating : 7.9/10</item>
+        <item>Rating : 8.3/10</item>
+        <item>Rating : 9.1/10</item>
+        <item>Rating : 7.8/10</item>
+    </string-array>
+</resources>
